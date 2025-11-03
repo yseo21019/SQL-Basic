@@ -509,7 +509,7 @@ FROM
 
 
 
-c:\Users\USER\Desktop\KakaoTalk_20251103_225546299.jpg
+![alt text](KakaoTalk_20251103_225546299.jpg)
 
 
 <br>
