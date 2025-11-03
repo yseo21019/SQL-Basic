@@ -509,7 +509,7 @@ FROM
 
 
 
-![alt text](image.png)
+c:\Users\USER\Desktop\KakaoTalk_20251103_225546299.jpg
 
 
 <br>
